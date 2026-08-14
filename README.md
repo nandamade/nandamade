@@ -7,7 +7,7 @@
 
 ```json
 {
-  "core_languages": ["Go", "C", "Python", "SQL"],
+  "core_languages":   ["Go", "C", "Python", "SQL"],
   "architecture":     ["GraphQL", "REST", "gRPC", "Distributed Systems"],
   "environment":      ["Linux (POSIX)", "Git", "Vim / Neovim"],
   "databases":        ["PostgreSQL", "SQLite"]
