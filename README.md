@@ -1,4 +1,4 @@
-> **SYS_INFO:** Software Engineer | Backend & Distributed Systems  
+> **SYS_INFO:** Software Engineer
 > **PHILOSOPHY:** Unix philosophy enthusiast & Open Source contributor
 
 ---
