@@ -1,4 +1,4 @@
-> **SYS_INFO:** Software Engineer
+> **SYS_INFO:** Software Engineer | Network & Distributed Systems  
 > **PHILOSOPHY:** Unix philosophy enthusiast & Open Source contributor
 
 ---
